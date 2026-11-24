@@ -1,4 +1,4 @@
-<h1>Nice to meet you, I'm Antonio! <br/><a href="https://www.linkedin.com/in/antonio-r-castillo">IT Professional</a>, <a href="https://www.youtube.com/c/@antoniocast1">YouTuber</a></h1>
+<h1>Nice to meet you, I'm Antonio! <br/><a href="https://www.linkedin.com/in/antonio-r-castillo">IT Professional</a></h1>
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
